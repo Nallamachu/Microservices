@@ -1,0 +1,5 @@
+applications:
+- name: aumanagement
+path: target/AUMangement-0.0.1-SNAPSHOT.jar
+memory: 650M
+buildpack: https://github.com/cloudfoundry/java-buildpack.git
